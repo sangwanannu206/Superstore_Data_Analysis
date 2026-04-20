@@ -31,21 +31,18 @@ Regions and Categories
 
 🔍 Key Features of Dashboard
 1. 📈 Overview Dashboard
-Total Sales
-Total Profit
-Total Orders
-Sales Trend Over Time
+ Total Sales
+ Total Orders
+ Sales Trend Over Time
 2. 👥 Customer Insights
-Customer Segmentation (RFM Analysis)
-Top Customers by Revenue
-Repeat vs New Customers
+  Customer Segmentation (RFM Analysis)
+  Top Customers by Revenue
 3. 📦 Product Analysis
-Sales by Category & Sub-category
-Top Performing Products
-
+  Sales by Category & Sub-category
+  Top Performing Products
 4. 🌍 Regional Analysis
-Sales by Region & State
-Geographic performance
+  Sales by Region & State
+  Geographic performance
 
 📊 KPIs Used
 Total Sales
@@ -66,6 +63,12 @@ Found categories with high sales but low profit
 Discovered regional performance gaps
 Highlighted opportunities for business growth
 
-🚀 Outcome
+Business Implications
+Focus on increasing Average Order Value (AOV) through bundling and cross-selling
+Expand Home Office segment to diversify revenue streams
+Strengthen customer retention programs for high-value customers
+Invest in Technology category growth to sustain revenue leadership
+
+Outcome
 
 This project demonstrates strong skills in data analysis, dashboard design, and business intelligence. It helps in understanding customer behavior and improving strategic decision-making using data.
